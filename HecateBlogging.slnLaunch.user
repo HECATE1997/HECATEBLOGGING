@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Master",
+    "Projects": [
+      {
+        "Path": "IdentityService.API\\IdentityService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Hecate.Gateway\\Hecate.Gateway\\Hecate.Gateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

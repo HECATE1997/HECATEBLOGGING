@@ -1,0 +1,11 @@
+E:\Practice\HecateBlogging\IdentityService.Domain\bin\Debug\net9.0\IdentityService.Domain.deps.json
+E:\Practice\HecateBlogging\IdentityService.Domain\bin\Debug\net9.0\IdentityService.Domain.dll
+E:\Practice\HecateBlogging\IdentityService.Domain\bin\Debug\net9.0\IdentityService.Domain.pdb
+E:\Practice\HecateBlogging\IdentityService.Domain\obj\Debug\net9.0\IdentityService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\HecateBlogging\IdentityService.Domain\obj\Debug\net9.0\IdentityService.Domain.AssemblyInfoInputs.cache
+E:\Practice\HecateBlogging\IdentityService.Domain\obj\Debug\net9.0\IdentityService.Domain.AssemblyInfo.cs
+E:\Practice\HecateBlogging\IdentityService.Domain\obj\Debug\net9.0\IdentityService.Domain.csproj.CoreCompileInputs.cache
+E:\Practice\HecateBlogging\IdentityService.Domain\obj\Debug\net9.0\IdentityService.Domain.dll
+E:\Practice\HecateBlogging\IdentityService.Domain\obj\Debug\net9.0\refint\IdentityService.Domain.dll
+E:\Practice\HecateBlogging\IdentityService.Domain\obj\Debug\net9.0\IdentityService.Domain.pdb
+E:\Practice\HecateBlogging\IdentityService.Domain\obj\Debug\net9.0\ref\IdentityService.Domain.dll

@@ -1,0 +1,19 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7247
+        }
+      ],
+      "UpstreamPathTemplate": "/identity/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7076"
+  }
+}
