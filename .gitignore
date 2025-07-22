@@ -1,1 +1,5 @@
 .vs
+/BlogService.API/bin/Debug/net9.0
+/BlogService.Application/bin/Debug/net9.0
+/BlogService.Domain/bin/Debug/net9.0
+/BlogService.Infrastructure/bin/Debug/net9.0
