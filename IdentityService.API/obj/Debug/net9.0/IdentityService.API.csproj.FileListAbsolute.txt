@@ -182,3 +182,4 @@ E:\Practice\HecateBlogging\IdentityService.API\obj\Debug\net9.0\IdentityService.
 E:\Practice\HecateBlogging\IdentityService.API\obj\Debug\net9.0\IdentityService.API.genruntimeconfig.cache
 E:\Practice\HecateBlogging\IdentityService.API\obj\Debug\net9.0\ref\IdentityService.API.dll
 E:\Practice\HecateBlogging\IdentityService.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Practice\HecateBlogging\IdentityService.API\obj\Debug\net9.0\IdentityService.API.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityService.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bee3ab4e27fb9fb442e5993c1f1ccbe311fa0f95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6696253ddba8d8987f5dee818aaad65b908de32c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityService.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityService.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

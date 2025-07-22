@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hecate.Gateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6696253ddba8d8987f5dee818aaad65b908de32c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hecate.Gateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hecate.Gateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

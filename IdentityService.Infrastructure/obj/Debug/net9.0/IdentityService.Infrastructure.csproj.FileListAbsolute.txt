@@ -17,3 +17,4 @@ E:\Practice\HecateBlogging\IdentityService.Infrastructure\obj\Debug\net9.0\refin
 E:\Practice\HecateBlogging\IdentityService.Infrastructure\obj\Debug\net9.0\IdentityService.Infrastructure.pdb
 E:\Practice\HecateBlogging\IdentityService.Infrastructure\obj\Debug\net9.0\IdentityService.Infrastructure.genruntimeconfig.cache
 E:\Practice\HecateBlogging\IdentityService.Infrastructure\obj\Debug\net9.0\ref\IdentityService.Infrastructure.dll
+E:\Practice\HecateBlogging\IdentityService.Infrastructure\obj\Debug\net9.0\IdentityService.Infrastructure.sourcelink.json

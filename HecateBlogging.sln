@@ -20,12 +20,17 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogService.API", "BlogService.API\BlogService.API.csproj", "{714DB503-FA88-4A0E-887B-9D8C3C72822E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogService.Application", "BlogService.Application\BlogService.Application.csproj", "{F646D539-BEC4-447F-A977-A29656D14429}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EF013291-B32C-41AD-93BF-5A614A0DAC17} = {EF013291-B32C-41AD-93BF-5A614A0DAC17}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogService.Domain", "BlogService.Domain\BlogService.Domain.csproj", "{31CCE170-D706-47A5-8D65-4EC9C6E0DCEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogService.Infrastructure", "BlogService.Infrastructure\BlogService.Infrastructure.csproj", "{3646BF98-B520-4FBF-AD89-5F236A888FA8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogService.Tests", "BlogService.Tests\BlogService.Tests.csproj", "{E36270F6-72B5-4FD9-A48C-E2C3B4A3059F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hecate.Common", "Hecate.Common\Hecate.Common.csproj", "{EF013291-B32C-41AD-93BF-5A614A0DAC17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +82,10 @@ Global
 		{E36270F6-72B5-4FD9-A48C-E2C3B4A3059F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E36270F6-72B5-4FD9-A48C-E2C3B4A3059F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E36270F6-72B5-4FD9-A48C-E2C3B4A3059F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF013291-B32C-41AD-93BF-5A614A0DAC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF013291-B32C-41AD-93BF-5A614A0DAC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF013291-B32C-41AD-93BF-5A614A0DAC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF013291-B32C-41AD-93BF-5A614A0DAC17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

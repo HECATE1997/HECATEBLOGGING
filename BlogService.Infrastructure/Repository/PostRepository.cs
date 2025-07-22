@@ -16,8 +16,9 @@ namespace BlogService.Infrastructure.Repository
 
         public PostRepository(IConfiguration configuration)
         {
-            var client = new MongoClient(configuration["MongoDB:ConnectionString"]);
-            var database = client.GetDatabase(configuration["MongoDB:Database"]);
+            var mongoDbConfig = configuration.GetSection("MongoDB");
+            var client = new MongoClient(mongoDbConfig["ConnectionString"]);
+            var database = client.GetDatabase(mongoDbConfig["Database"]);
             _posts = database.GetCollection<Post>("Posts");
         }
 
