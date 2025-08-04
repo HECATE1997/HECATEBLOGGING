@@ -21,5 +21,17 @@
 # Binaries
 **/[Dd]ebug/
 **/[Rr]elease/
-bin/
-obj/
+
+# These are the critical lines for your issue
+[Bb]in/
+[Oo]bj/
+
+# Other common C# ignore patterns
+*.user
+*.suo
+*.sln.docstates
+.vs/
+.idea/
+packages/
+project.assets.json
+project.nuget.cache
