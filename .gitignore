@@ -17,3 +17,9 @@
 *.vssscc
 *.dbmdl
 *.publishsettings
+
+# Binaries
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
