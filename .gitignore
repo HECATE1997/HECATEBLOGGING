@@ -19,7 +19,7 @@
 *.publishsettings
 
 # Binaries
-[Dd]ebug/
-[Rr]elease/
+**/[Dd]ebug/
+**/[Rr]elease/
 bin/
 obj/
